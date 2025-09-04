@@ -1,0 +1,2 @@
+a = 'pika'
+print(a)
